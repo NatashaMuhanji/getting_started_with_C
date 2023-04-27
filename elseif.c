@@ -2,7 +2,7 @@
 int main()
 {
     //in if else clause, one needs to make a decision from one condition
-    //but if conditions are more, else if clause is used
+    //but if conditions are more, else if clause is necessary to be used
     //interestingly, one can add as much else if statements they want but only one block is executed
 
     int age;
